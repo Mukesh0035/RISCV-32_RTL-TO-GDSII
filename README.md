@@ -90,20 +90,23 @@ runs//results/final/
 ├── riscv_core.sdc      # Final timing constraints
 └── ...                 # SPEF, SDF, reports, logs
 ```
-
 ## 📸 Viewing the Final Layout
 
-| Tool | Command | Export image |
-|------|---------|--------------|
-| **Magic** | `magic -T sky130A.tech layout.gds` | File → Write EPS, or screenshot |
+| Tool | Command | Export Method |
+|------|---------|---------------|
+| **Magic** | `magic -T sky130A.tech layout.gds` | File → Write EPS, or take screenshot |
 | **KLayout** | `klayout layout.gds` | File → Save Picture / Export Image |
 
-Save the snapshot as `images/layout.png`.
+### Layout Image
 
-To embed the picture in this README:
-```markdown
-![Final layout](images/layout.png)
-```
+The final layout image for this RISC-V processor implementation:
+
+![RISC-V 32-bit Processor Layout](https://github.com/Mukesh0035/RISCV-32_RTL-TO-GDSII/blob/master/RISCv_32%20layout.png)
+
+*Figure: Final GDSII layout of the 5-stage pipelined RISC-V processor*
+
+
+
 
 ## 📘 References
 * **OpenLane** –   
