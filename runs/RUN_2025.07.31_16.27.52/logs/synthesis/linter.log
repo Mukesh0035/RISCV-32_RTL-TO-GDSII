@@ -1,0 +1,10 @@
+%Warning-UNUSEDSIGNAL: /openlane/designs/riscv32/riscv32.v:13:10: Signal is not used: 'zero'
+                                                                : ... In instance riscv32
+   13 |     wire zero;
+      |          ^~~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.009
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /openlane/designs/riscv32/ControlUnit.v:5:17: Bits of signal are not used: 'instr'[4]
+                                                                   : ... In instance riscv32.CU
+    5 |     input [7:0] instr,
+      |                 ^~~~~

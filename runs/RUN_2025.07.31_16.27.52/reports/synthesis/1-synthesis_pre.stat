@@ -1,0 +1,26 @@
+
+52. Printing statistics.
+
+=== riscv32 ===
+
+   Number of wires:                 81
+   Number of wire bits:            112
+   Number of public wires:          10
+   Number of public wire bits:      35
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                102
+     $_ANDNOT_                      20
+     $_AND_                          5
+     $_DFFE_PP_                     16
+     $_DFF_PP0_                      4
+     $_MUX_                         16
+     $_NAND_                         3
+     $_NOR_                          1
+     $_NOT_                         15
+     $_ORNOT_                        3
+     $_OR_                           7
+     $_XNOR_                         2
+     $_XOR_                         10
+

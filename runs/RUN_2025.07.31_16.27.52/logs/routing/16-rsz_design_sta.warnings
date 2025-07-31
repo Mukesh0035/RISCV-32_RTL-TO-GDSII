@@ -1,0 +1,15 @@
+[WARNING GRT-0026] Missing route to pin output4/X.
+[WARNING GRT-0026] Missing route to pin output13/X.
+[WARNING GRT-0026] Missing route to pin _143_/X.
+[WARNING GRT-0026] Missing route to pin output20/X.
+[WARNING GRT-0026] Missing route to pin output21/X.
+[WARNING GRT-0026] Missing route to pin output4/A.
+[WARNING GRT-0026] Missing route to pin output13/A.
+[WARNING GRT-0026] Missing route to pin output20/A.
+[WARNING GRT-0026] Missing route to pin _143_/B.
+[WARNING GRT-0026] Missing route to pin output21/A.
+[WARNING GRT-0026] Missing route to pin _137_/B.
+[WARNING GRT-0026] Missing route to pin _171_/X.
+[WARNING GRT-0026] Missing route to pin _137_/A.
+[WARNING GRT-0026] Missing route to pin _112_/A.
+[WARNING] Did not save OpenROAD database!

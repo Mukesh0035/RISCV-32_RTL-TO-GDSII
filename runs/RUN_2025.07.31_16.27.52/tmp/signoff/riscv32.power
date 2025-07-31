@@ -1,0 +1,5 @@
+vdd power 1.8
+gnd power 0.0
+#define std_input min@gnd max@vdd
+clk input std_input
+reset input std_input

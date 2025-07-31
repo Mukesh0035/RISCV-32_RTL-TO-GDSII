@@ -1,0 +1,33 @@
+
+65. Executing CHECK pass (checking for obvious problems).
+Checking module riscv32...
+Warning: Wire riscv32.\pc [3] is used but has no driver.
+Warning: Wire riscv32.\pc [2] is used but has no driver.
+Warning: Wire riscv32.\pc [1] is used but has no driver.
+Warning: Wire riscv32.\pc [0] is used but has no driver.
+Warning: Wire riscv32.\instr [7] is used but has no driver.
+Warning: Wire riscv32.\instr [6] is used but has no driver.
+Warning: Wire riscv32.\instr [5] is used but has no driver.
+Warning: Wire riscv32.\instr [4] is used but has no driver.
+Warning: Wire riscv32.\instr [3] is used but has no driver.
+Warning: Wire riscv32.\instr [2] is used but has no driver.
+Warning: Wire riscv32.\instr [1] is used but has no driver.
+Warning: Wire riscv32.\instr [0] is used but has no driver.
+Warning: Wire riscv32.\halt is used but has no driver.
+Warning: Wire riscv32.\R3 [3] is used but has no driver.
+Warning: Wire riscv32.\R3 [2] is used but has no driver.
+Warning: Wire riscv32.\R3 [1] is used but has no driver.
+Warning: Wire riscv32.\R3 [0] is used but has no driver.
+Warning: Wire riscv32.\R2 [3] is used but has no driver.
+Warning: Wire riscv32.\R2 [2] is used but has no driver.
+Warning: Wire riscv32.\R2 [1] is used but has no driver.
+Warning: Wire riscv32.\R2 [0] is used but has no driver.
+Warning: Wire riscv32.\R1 [3] is used but has no driver.
+Warning: Wire riscv32.\R1 [2] is used but has no driver.
+Warning: Wire riscv32.\R1 [1] is used but has no driver.
+Warning: Wire riscv32.\R1 [0] is used but has no driver.
+Warning: Wire riscv32.\R0 [3] is used but has no driver.
+Warning: Wire riscv32.\R0 [2] is used but has no driver.
+Warning: Wire riscv32.\R0 [1] is used but has no driver.
+Warning: Wire riscv32.\R0 [0] is used but has no driver.
+Found and reported 29 problems.
